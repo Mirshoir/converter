@@ -1,0 +1,5 @@
+streamlit~=1.42.2
+meshio~=5.3.5
+numpy-stl
+meshio
+pandas~=2.2.3
