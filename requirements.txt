@@ -3,3 +3,8 @@ meshio~=5.3.5
 numpy-stl
 meshio
 pandas~=2.2.3
+numpy~=2.1.1
+trimesh~=4.6.8
+pygmsh~=7.1.17
+gmsh~=4.13.1
+scipy~=1.15.2
